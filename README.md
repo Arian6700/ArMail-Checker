@@ -1,7 +1,6 @@
 🚀 ARMail-Checker
-https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
 
-A high-performance, proxyless email validation tool for educational purposes only.
+A high-performance,Written In Python, proxyless email validation tool for educational purposes only.
 
 ⚠️ IMPORTANT DISCLAIMER
 THIS TOOL IS STRICTLY FOR EDUCATIONAL PURPOSES ONLY.
@@ -11,8 +10,6 @@ THIS TOOL IS STRICTLY FOR EDUCATIONAL PURPOSES ONLY.
 ❌ NOT for unauthorized access or spamming
 
 ❌ NOT for any illegal activities
-
-The developer assumes NO liability for misuse
 
 ✨ Features
 ⚡ Super Fast - Optimized validation engine for quick results
@@ -26,12 +23,8 @@ The developer assumes NO liability for misuse
 🐍 Python 3.8+ - Built with modern Python features
 
 🛠️ Installation
-Prerequisites
 Python 3.8 or higher
 
-pip package manager
-
-Steps
 bash
 # Clone the repository
 git clone https://github.com/Arian6700/ArMail-Checker
